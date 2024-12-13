@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 <h4>
-- 🔭 I’m Gulshan Kumar Yadav
+- 🔭 I’m Gulshan Kumar
   
 - 👨🏽‍💻 I’m an IT Undergrad student at KIIT
 
